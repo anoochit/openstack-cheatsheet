@@ -2,9 +2,9 @@ BUILD = build
 BOOKNAME = openstack-cheatsheet
 TITLE = title.txt
 METADATA = metadata.xml
-CHAPTERS = contributor.md ch01.md ch02.md ch03.md ch04.md ch05.md ch06.md ch07.md ch08.md ch09.md
-TOC = --toc --toc-depth=2
-COVER_IMAGE = images/cover.jpg
+CHAPTERS = ch01.md ch02.md ch03.md ch04.md ch05.md ch06.md ch07.md ch08.md ch09.md contributor.md
+TOC = --toc --toc-depth=3
+COVER_IMAGE = images/cover.png
 LATEX_CLASS = report
 
 all: book

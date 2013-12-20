@@ -1,6 +1,5 @@
-Contributors
-============
+#Contributors
 
- * Anuchit Chalothorn <anoochit@gmail.com>
+Anuchit Chalothorn <anoochit@gmail.com>
 
 
